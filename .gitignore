@@ -17,10 +17,8 @@ buildNumber.properties
 .classpath
 
 .idea
-**/.gitignore
 
 **/mvnw
 **/mvnw.cmd
 
 **/.mvn
-**/tartget/
